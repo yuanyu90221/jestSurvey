@@ -1,0 +1,21 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "test.js",
+    "scripts": {
+        "test-mocha": "mocha",
+        "test-jest": "jest",
+        "test-jasmine": "jasmine"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jasmine": "^2.6.0",
+        "jest": "^19.0.2",
+        "mocha": "^3.3.0"
+    },
+    "devDependencies": {
+        "jest": "^19.0.2"
+    }
+}
